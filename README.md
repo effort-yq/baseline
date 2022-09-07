@@ -1,0 +1,2 @@
+# baseline
+高端装备制造知识图谱自动化构建技术评测任务baseline
